@@ -1,0 +1,163 @@
+{
+    "code": "200",
+    "topCityList": [
+        {
+            "name": "北京",
+            "id": "101010100",
+            "lat": "39.90499",
+            "lon": "116.40529",
+            "adm2": "北京",
+            "adm1": "北京市",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "10",
+            "fxLink": "https://www.qweather.com/weather/beijing-101010100.html"
+        },
+        {
+            "name": "余杭",
+            "id": "101210106",
+            "lat": "30.27371",
+            "lon": "119.97874",
+            "adm2": "杭州",
+            "adm1": "浙江省",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "25",
+            "fxLink": "https://www.qweather.com/weather/yuhang-101210106.html"
+        },
+        {
+            "name": "朝阳",
+            "id": "101010300",
+            "lat": "39.92149",
+            "lon": "116.48641",
+            "adm2": "北京",
+            "adm1": "北京市",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "15",
+            "fxLink": "https://www.qweather.com/weather/chaoyang-101010300.html"
+        },
+        {
+            "name": "深圳",
+            "id": "101280601",
+            "lat": "22.54700",
+            "lon": "114.08595",
+            "adm2": "深圳",
+            "adm1": "广东省",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "13",
+            "fxLink": "https://www.qweather.com/weather/shenzhen-101280601.html"
+        },
+        {
+            "name": "海淀",
+            "id": "101010200",
+            "lat": "39.95607",
+            "lon": "116.31032",
+            "adm2": "北京",
+            "adm1": "北京市",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "15",
+            "fxLink": "https://www.qweather.com/weather/haidian-101010200.html"
+        },
+        {
+            "name": "嘉定",
+            "id": "101020500",
+            "lat": "31.38352",
+            "lon": "121.25034",
+            "adm2": "上海",
+            "adm1": "上海市",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "23",
+            "fxLink": "https://www.qweather.com/weather/jiading-101020500.html"
+        },
+        {
+            "name": "金水",
+            "id": "101180112",
+            "lat": "34.77584",
+            "lon": "113.68604",
+            "adm2": "郑州",
+            "adm1": "河南省",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "25",
+            "fxLink": "https://www.qweather.com/weather/jinshui-101180112.html"
+        },
+        {
+            "name": "浦东新区",
+            "id": "101020600",
+            "lat": "31.24594",
+            "lon": "121.56770",
+            "adm2": "上海",
+            "adm1": "上海市",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "15",
+            "fxLink": "https://www.qweather.com/weather/pudong-101020600.html"
+        },
+        {
+            "name": "上海",
+            "id": "101020100",
+            "lat": "31.23171",
+            "lon": "121.47264",
+            "adm2": "上海",
+            "adm1": "上海市",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "11",
+            "fxLink": "https://www.qweather.com/weather/shanghai-101020100.html"
+        },
+        {
+            "name": "杭州",
+            "id": "101210101",
+            "lat": "30.24603",
+            "lon": "120.21079",
+            "adm2": "杭州",
+            "adm1": "浙江省",
+            "country": "中国",
+            "tz": "Asia/Shanghai",
+            "utcOffset": "+08:00",
+            "isDst": "0",
+            "type": "city",
+            "rank": "11",
+            "fxLink": "https://www.qweather.com/weather/hangzhou-101210101.html"
+        }
+    ],
+    "refer": {
+        "sources": [
+            "QWeather"
+        ],
+        "license": [
+            "QWeather Developers License"
+        ]
+    }
+}
