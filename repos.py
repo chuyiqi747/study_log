@@ -1,6 +1,10 @@
+import os
+
 import requests
 import json
-API_KEY = '34d02f1ed81f4ada8205ba1a11019398'
+from dotenv  import  load_dotenv
+load_dotenv()
+API_KEY = os.getenv('API_KEY')
 API_HOST = "https://mk76x9w3kh.re.qweatherapi.com"
 url = f"{API_HOST}/geo/v2/city/top"
 params = {'key': API_KEY,
