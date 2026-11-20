@@ -1,6 +1,8 @@
 import requests
 import json
 import os
+import sys
+print(sys.argv)
 from dotenv import load_dotenv
 load_dotenv()
 API_KEY = os.getenv('API_KEY')
@@ -39,7 +41,8 @@ def get_weather(cityID):
         print(f'get weather error {response.status_code}')
         return None
 if __name__ == '__main__':
-    city_name = input('city name: ')
+    #
+    city_name = get_cityID(sys.argv[1])
     try:
         cityID = get_cityID(city_name)
         if cityID == None:
